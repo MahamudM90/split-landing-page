@@ -1,2 +1,2 @@
 ## split-landing-page
-This is a basic level website of split-landi
+This is a basic level website of split-landin
