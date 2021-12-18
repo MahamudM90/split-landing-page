@@ -1,2 +1,2 @@
 ## split-landing-page
-This i
+This is a basic
