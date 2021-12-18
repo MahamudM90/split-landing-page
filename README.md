@@ -1,2 +1,2 @@
 ## split-landing-page
-This is a basic level web
+This is a basic level website
