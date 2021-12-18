@@ -1,2 +1,2 @@
 ## split-landing-page
-This is a basic level website of sp
+This is a basic level website of split
